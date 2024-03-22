@@ -2,9 +2,9 @@
 
 💼 I’m currently working as QA at GBM Tech & Control
 
-💻 I’m currently use Cypress for automating tests
+💻 I have knowledge in JavaScript and use Cypress for automating tests
 
-💡 I’m currently learning Robot Framework
+💡 I’m learning Robot Framework for automating tests
 
 <div style="display: inline_block"><br>
   <img align="center" alt="joao-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
