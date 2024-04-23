@@ -1,6 +1,6 @@
-👋🏻 Hello there, my name is João Teodozo and I’m 20 years old
+👋🏻 Hello there, my name is João Teodozo and I’m 21 years old
 
-💼 I’m currently working as QA at GBM Tech & Control
+💼 I’m currently working as QA Analyst at iPORT Solutions
 
 💻 I have knowledge in JavaScript and use Cypress for automating tests
 
