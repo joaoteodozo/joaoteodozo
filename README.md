@@ -1,10 +1,10 @@
-👋🏻 Hello there, my name is João Teodozo and I’m 22 years old
+👋🏻 Hello there, my name is João Teodozo and I’m 23 years old
 
-💼 I’m currently working as QA Analyst at iPORT Solutions
+💼 I’m currently working as QA Analyst at Foursys
 
 💻 I have knowledge in JavaScript and use Cypress for automating tests
 
-💡 I have knowledge in Python and use Robot Framework for automating tests
+💡 I have knowledge in TypeScript and use Playwright for automating tests
 
 <div style="display: inline_block"><br>
   <img align="center" alt="joao-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
